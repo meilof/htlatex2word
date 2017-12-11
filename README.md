@@ -14,6 +14,7 @@ To convert `file.tex` to Word, perform the following steps:
 * Open `withoutmath.html` in Microsoft Word. Make sure the "Navigation" pane is closed and the keyboard focus is on the text
 * Return to the terminal where the Python script is running and press Enter
 * The script will now fill in all math formulas in `withoutmath.html`. Wait until this is finished and **do not use your computer in the mean time** since the tool works by sending key presses to the Word window
+* In Microsoft Word, just save `withoutmath.html` as a Word document and you are done!
 
 ## Problems
 
